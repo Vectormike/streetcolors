@@ -10,9 +10,8 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>Street Colors & Interiors</strong>, a super simple
-        <br />
-        responsive site template freebie
+        <strong>Street Colors & Interiors</strong>, a residential and commercial
+        wall changer
         <br />
         managed by <a href="http://html5up.net">Joseph Abia</a>.
       </h1>

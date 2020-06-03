@@ -13,7 +13,7 @@ const Header = () => (
         <strong>Street Colors & Interiors</strong>, a residential and commercial
         wall changer
         <br />
-        managed by <a href="http://html5up.net">Joseph Abia</a>.
+        managed by <a href="https://web.facebook.com/Jobia1">Joseph Abia</a>.
       </h1>
     </div>
     <Footer />
